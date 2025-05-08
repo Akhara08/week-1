@@ -1,0 +1,13 @@
+Date,Region,SalesPerson,Product,UnitsSold,UnitPrice,TotalSales
+2024-01-31,North,Alice,Laptop,78,868.31,67728.18
+2024-02-29,South,Bob,Tablet,76,1313.43,99820.68
+2024-03-31,East,Charlie,Phone,57,1061.34,60496.38
+2024-04-30,West,Diana,Laptop,26,351.27,9133.02
+2024-05-31,North,Alice,Tablet,87,312.39,27177.93
+2024-06-30,South,Bob,Phone,77,522.66,40244.82
+2024-07-31,East,Charlie,Laptop,43,998.61,42940.23
+2024-08-31,West,Diana,Tablet,62,1011.26,62698.12
+2024-09-30,North,Alice,Phone,58,375.61,21785.38
+2024-10-31,South,Bob,Laptop,86,771.87,66380.82
+2024-11-30,East,Charlie,Tablet,29,296.06,8585.74
+2024-12-31,West,Diana,Phone,29,318.01,9222.29
